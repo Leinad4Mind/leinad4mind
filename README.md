@@ -2,8 +2,12 @@
 
 <p align="center">
   <img alt="Profile Visits" src="https://komarev.com/ghpvc/?username=Leinad4Mind&label=Profile%20Visits&color=cba6f7&abbreviated=true&style=flat-square&labelColor=313244&logo=github&logoColor=cdd6f4" />
-  <a href="https://github.com/Leinad4Mind?tab=followers" target="_blank">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Leinad4Mind?label=Followers&style=flat-square&labelColor=313244&color=f9e2af&logo=github&logoColor=cdd6f4" /></a>
+
+  <img alt="Followers" src="https://img.shields.io/github/followers/Leinad4Mind?label=Followers&style=flat-square&labelColor=313244&color=f9e2af&logo=github&logoColor=cdd6f4" />
+
+  <img alt="Stars" src="https://img.shields.io/github/stars/Leinad4Mind?affiliations=OWNER&style=flat-square&label=Stars&labelColor=313244&color=89b4fa&logo=github&logoColor=cdd6f4" />
+</p>
+<p align="center">
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-f2cdcd?style=flat-square&labelColor=313244&logo=opensourceinitiative&logoColor=cba6f7" />
 </p>
 

@@ -103,14 +103,6 @@ Multi-disk NAS environment with Kubernetes and self-hosted services for media an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./assets/generated/stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="./assets/generated/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=Leinad4Mind&theme=catppuccin-mocha&hide_border=false&background=1e1e2e&stroke=313244&ring=fab387&fire=fab387&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=bac2de&dates=9399b2"
